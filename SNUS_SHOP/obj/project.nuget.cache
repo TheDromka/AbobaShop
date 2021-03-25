@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wp0LYY9zofsVciocahG9p39WcH9wFl4h4gG6JxGt3UXVfm7rbwI56bABnCGu5mHDajh5q9i+DmbfMWkSwWMCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\source\\repos\\SNUS_SHOP\\SNUS_SHOP\\SNUS_SHOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\mahapps.metro\\2.4.4\\mahapps.metro.2.4.4.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\showmethexaml\\2.0.0\\showmethexaml.2.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

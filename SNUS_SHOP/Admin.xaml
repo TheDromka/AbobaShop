@@ -1,0 +1,32 @@
+﻿<mah:MetroWindow x:Class="SNUS_SHOP.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="ABOBA REGIStr" Height="444" Width="789">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFC315CB"/>
+            <GradientStop Color="#FF3D55BD" Offset="1"/>
+            <GradientStop Color="#FEBC18CA" Offset="0.415"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="10,-10,-1,3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="23*"/>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="270*"/>
+            <RowDefinition Height="143*"/>
+            <RowDefinition Height="29*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="73"/>
+            <ColumnDefinition Width="167*"/>
+            <ColumnDefinition Width="95*"/>
+        </Grid.ColumnDefinitions>
+        <Image HorizontalAlignment="Left" Height="100" Margin="5,2,0,0" VerticalAlignment="Top" Width="155" Source="/images/logo2.png" Grid.Row="2" Grid.ColumnSpan="2"/>
+    </Grid>
+</mah:MetroWindow>
